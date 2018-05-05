@@ -1,0 +1,175 @@
+{"BT_appConfig":
+{
+"BT_items":[
+{"itemId":"EA40EE0C93E27970474949D38",
+"itemType":"BT_app",
+"buzztouchAppId":"EA40EE0C93E27970474949D38",
+"buzztouchAPIKey":"55439F58374B6DE63B2FBBC",
+
+"lastModified":"Fri, 12 May 2017 13:40:39 -0700",
+"lastPublished":"Tue, 25 Oct 2016 14:23:27 -0700",
+"name":"CSH Whaling AR",
+"version":"1.0",
+"currentMode":"Design",
+"startLocationUpdates":"0",
+"promptForPushNotifications":"0",
+"allowRotation":"largeDevicesOnly",
+
+"BT_themes":[
+{"itemId":"E0302200CC2A461237DFC0E", "itemType":"BT_theme","splashScreenItemId":"343F0B88E8D4C73DA36F00D", "backgroundColor":"#FFFFFF"}
+],
+
+"BT_tabs":[
+
+],
+
+"BT_menus":[
+
+
+],
+
+"BT_screens":[
+{
+"itemId": "10AECCC5E8BA1FAAEBD2E97",
+"itemType": "CR_animated_circlemenu",
+"itemNickname": "Main 3",
+"smallCenterButtonImage": "WhalingLogo.png",
+"largeCenterButtonImage": "WhalingLogo.png",
+"smallCenterButtonBackground": "WhalingLogo.png",
+"largeCenterButtonBackground": "WhalingLogo.png",
+"smallButtonSize": "100",
+"largeButtonSize": "110",
+"smallMenuSize": "300",
+"largeMenuSize": "500",
+"backgroundColor": "#FFFFFF",
+"backgroundImageNameSmallDevice": "",
+"backgroundImageNameLargeDevice": "",
+"backgroundImageScale": "fullScreen",
+"childItems": [{
+"itemId": "002bda81af4cddf2bc709c7",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "F8EE45D4A82F45D6292EA2D",
+"titleText": "Calendar",
+"smallImageName": "calender.png",
+"largeImageName": "calender.png",
+"transitionType": "grow"
+},
+{
+"itemId": "6C7C0D130EEF08985AD68DA",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "D7C15C2D3F5BF5BBFB2CF84",
+"titleText": "Exhibits",
+"smallImageName": "exhibit.png",
+"largeImageName": "exhibit.png",
+"transitionType": "grow"
+},
+{
+"itemId": "60F4E3F6B8BE4231CDB6518",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "FBB1B80BA3A5DA81380ABD4",
+"titleText": "Visit",
+"smallImageName": "Trip.png",
+"largeImageName": "Trip.png",
+"transitionType": "grow"
+},
+
+{
+"itemId": "ASASDSSDF3434ERRE",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "A452C17F93C99FC4D24CE60",
+"titleText": "Augmented Reality",
+"smallImageName": "augmentedreality.png",
+"largeImageName": "augmentedreality.png",
+"transitionType": "grow"
+}
+]
+},
+{"itemId":"343F0B88E8D4C73DA36F00D", "itemType":"BT_screen_splash", "itemNickname":"spalsh", "itemId":"343F0B88E8D4C73DA36F00D", "itemType":"BT_screen_splash", "itemNickname":"spalsh", "startTransitionAfterSeconds":"1", "transitionDurationSeconds":"5", "transitionType":"fade", "backgroundImageNameSmallDevice":"splash3.png", "backgroundImageNameLargeDevice":"splash3.png", "backgroundImageScale":"center","backgroundColor":"#000000", "backgroundImageScale":"center"},
+{"itemId":"035077A2FBCBFC480F30BF1", "itemType":"CR_ultimatScreenCreator", "itemNickname":"Home screen", "itemId":"035077A2FBCBFC480F30BF1","itemType":"CR_ultimatScreenCreator","itemNickname":"Home screen","navBarTitleText":"Home screen","elements":"[&&##itemId##:##o8vv80PI18Gb##,##itemType##:##image##,##elementWidth##:##450##,##elementTop##:##-85##,##elementLeft##:##-42##,##elementHeight##:##800##,##elementImage##:##https://pbs.twimg.com/profile_images/606326760435621888/g3u8VZiN.jpg##,##elementWebAttemptZoom##:##0##,##elementMapAllowZoom##:##1##,##elementMapAllowScroll##:##1##,##elementSwitchState##:##0##,##elementTextViewEditable##:##1##,##elementTextViewSelectable##:##1##,##elementTextViewDetectLinks##:##1##,##elementTextViewDetectAddresses##:##1##,##elementTextViewDetectPhoneNumbers##:##1##,##elementTextViewDetectEvents##:##1##,##elementSegmentStyle##:##plain##,##elementSegmentNumberSegments##:##1##,##elementTableMultipleSelection##:##0##,##elementTableRowAsButtons##:##0##,##elementTableListStyle##:##square##,##elementTablePreventScrolling##:##0##,##elementTableRowSelectStyle##:##blue##,##elementVideoAutoplay##:##0##%%,&&##itemId##:##Dhb7u5awUllh##,##itemType##:##button##,##elementWidth##:##250##,##elementTop##:##38##,##elementLeft##:##24##,##elementHeight##:##100##,##elementText##:##CSH Whaling Museum##,##elementBackgroundColor##:##Nigger##,##elementFontColor##:###FFFFFF##,##elementFontSize##:##24##,##elementButtonAction##:##loadScreen##,##elementWebAttemptZoom##:##0##,##elementMapAllowZoom##:##1##,##elementMapAllowScroll##:##1##,##elementSwitchState##:##0##,##elementTextViewEditable##:##1##,##elementTextViewSelectable##:##1##,##elementTextViewDetectLinks##:##1##,##elementTextViewDetectAddresses##:##1##,##elementTextViewDetectPhoneNumbers##:##1##,##elementTextViewDetectEvents##:##1##,##elementSegmentStyle##:##plain##,##elementSegmentNumberSegments##:##1##,##elementTableMultipleSelection##:##0##,##elementTableRowAsButtons##:##0##,##elementTableListStyle##:##square##,##elementTablePreventScrolling##:##0##,##elementTableRowSelectStyle##:##blue##,##elementVideoAutoplay##:##0##%%,&&##itemId##:##TpQoIRTtQuUR##,##itemType##:##button##,##elementWidth##:##46##,##elementTop##:##107##,##elementLeft##:##130##,##elementHeight##:##30##,##elementText##:##(start)##,##elementFontColor##:###FF0033##,##elementButtonScreenNickname##:##AR##,##elementButtonScreenId##:##A452C17F93C99FC4D24CE60##,##elementButtonAction##:##loadScreen##,##elementWebAttemptZoom##:##0##,##elementMapAllowZoom##:##1##,##elementMapAllowScroll##:##1##,##elementSwitchState##:##0##,##elementTextViewEditable##:##1##,##elementTextViewSelectable##:##1##,##elementTextViewDetectLinks##:##1##,##elementTextViewDetectAddresses##:##1##,##elementTextViewDetectPhoneNumbers##:##1##,##elementTextViewDetectEvents##:##1##,##elementSegmentStyle##:##plain##,##elementSegmentNumberSegments##:##1##,##elementTableMultipleSelection##:##0##,##elementTableRowAsButtons##:##0##,##elementTableListStyle##:##square##,##elementTablePreventScrolling##:##0##,##elementTableRowSelectStyle##:##blue##,##elementVideoAutoplay##:##0##,##elementButtonTransitionType##:##fade##%%]","screenLoadData":"NA","screenLoadDataIpad":"NA",
+"childItems":[
+
+]},
+{"itemId":"A452C17F93C99FC4D24CE60", "itemType":"AK_wikitudeARtracking", "itemNickname":"AR", "itemId":"A452C17F93C99FC4D24CE60", "itemType":"AK_wikitudeARtracking", "itemNickname":"AR", "navBarTitleText":"AR", "licenceKey":"bPGDne5fCoVNGmJ7WMkAuCvP1NjorQh23xse8cWt66uYucqxMI2eGFg4fEJsVOWiYT2K84ldSVobh545IEJAGDBGgjNg4jpK1Fst+u+/FL3ztA0P14W6bZVfODgggFAJAk47yVVQ75YjY8aKMm51+RfRmnKV+e3PzqaXYcqK+zhTYWx0ZWRfX+CciRUJuRrZ7LS5vlVFWw2ECsXexOGb4dkZzw5FaWfQaWo2iEs2Uq6Ns8ikeU76hegleV9ApNOBpp/Kys5OGgWFn0AROwd4iswtKzpUgtGaGDqyahJr/CKPPdrHapW8jF5DOwTwYTld4KyWyS7KGQ1qZ9LUy1/j/xaKn1W5mhvDZ/t7OB6r+wVnGVvPX9z9jxu3TXahJFN/3S71mGNCIPhU2nauIqW3L0u/aLAY+w3iLQ+VdjNKaPGMkhah3l+YKfyrpv8WpdwovAYSL6uXPJ30K6LsE8C5P9mKmBmSdDuvNAm7Q+OT5Zu3nHiZKFKo1sYEZTsWwSeD4YZ+oFxthbM+A/JHABhKUbOHovbGEUceistLq1hJIjA5yxh9O4SwC4tKKNJIEFenST0DS/sppzO8KWvATCkbO+JZg1BYeFYeb+84WDJUpSTsp1uH2eXl8GG8+RdFTSEZlBBGi7IBnX2S8Wy10j9RXitGdwv/4b2sHklBEHfSgo9j94wWg3Z5c0u5x8F4vS3z", "wtcFileName":"tracker", "loadScreen":"1", "transitionType":"fade"},
+{"itemId":"A712C31D70341F4ECD0E3A4", "itemType":"BT_screen_customURL", "itemNickname":"guy", "itemId":"A712C31D70341F4ECD0E3A4", "itemType":"BT_screen_customURL", "itemNickname":"guy", "navBarTitleText":"guy", "dataURL":"http://www.stonybrook.edu/commcms/libspecial/collections/manuscripts/murphy.html"},
+{"itemId":"FC60CF4AFDB0634C4918C3D", "itemType":"BT_screen_customURL", "itemNickname":"thomas", "itemId":"FC60CF4AFDB0634C4918C3D", "itemType":"BT_screen_customURL", "itemNickname":"thomas", "navBarTitleText":"thomas", "dataURL":"https://en.wikipedia.org/wiki/Thomas_Welcome_Roys"},
+{"itemId":"84AB0F287075CBDCCD8B6D6", "itemType":"BT_screen_customURL", "itemNickname":"Manuel", "itemId":"84AB0F287075CBDCCD8B6D6", "itemType":"BT_screen_customURL", "itemNickname":"Manuel", "navBarTitleText":"Manuel", "dataURL":"http://www.cshwhalingmuseum.org/uploads/8/4/2/2/8422766/csh_whaling_museum_azores.pdf"},
+{"itemId":"4083C929439C5C4EFA3807B", "itemType":"CR_animated_circlemenu", "itemNickname":"Main Menu", "smallButtonSize":"64","largeButtonSize":"64","backgroundColor":"#000000","smallMenuSize":"240","largeMenuSize":"240",
+"childItems":[
+
+]},
+{
+"itemId": "C1B1E5085F4990A5404C79F",
+"itemType": "CR_animated_circlemenu",
+"itemNickname": "Main 2",
+"smallCenterButtonImage": "WhalingLogo.png",
+"largeCenterButtonImage": "WhalingLogo.png",
+"smallCenterButtonBackground": "WhalingLogo.png",
+"largeCenterButtonBackground": "WhalingLogo.png",
+"smallButtonSize": "80",
+"largeButtonSize": "110",
+"smallMenuSize": "300",
+"largeMenuSize": "500",
+"backgroundColor": "#FFFFFF",
+"backgroundImageNameSmallDevice": "",
+"backgroundImageNameLargeDevice": "",
+"backgroundImageScale": "fullScreen",
+"childItems": [{
+"itemId": "002bda81af4cddf2bc709c7",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "F8EE45D4A82F45D6292EA2D",
+"titleText": "Calendar",
+"smallImageName": "calender.png",
+"largeImageName": "calender.png",
+"transitionType": "grow"
+},
+{
+"itemId": "6C7C0D130EEF08985AD68DA",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "D7C15C2D3F5BF5BBFB2CF84",
+"titleText": "Exhibits",
+"smallImageName": "exhibit.png",
+"largeImageName": "exhibit.png",
+"transitionType": "grow"
+},
+{
+"itemId": "60F4E3F6B8BE4231CDB6518",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "FBB1B80BA3A5DA81380ABD4",
+"titleText": "Visit",
+"smallImageName": "Trip.png",
+"largeImageName": "Trip.png",
+"transitionType": "grow"
+},
+{
+"itemId": "9BE91ABFA9C38BA4FD5AF6E",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "4D139F9CA13327373BC6D3B",
+"titleText": "Programs",
+"smallImageName": "info.png",
+"largeImageName": "info.png",
+"transitionType": "grow"
+},
+{
+"itemId": "9BE9DFFDGHGFHGBA4FD5AF6E",
+"itemType": "BT_menuItem",
+"loadScreenWithItemId": "A452C17F93C99FC4D24CE60",
+"titleText": "Augmented Reality",
+"smallImageName": "augmentedreality.png",
+"largeImageName": "augmentedreality.png",
+"transitionType": "grow"
+}
+]
+},
+{"itemId":"FBB1B80BA3A5DA81380ABD4", "itemType":"BT_screen_customURL", "itemNickname":"Visit", "itemId":"FBB1B80BA3A5DA81380ABD4", "itemType":"BT_screen_customURL", "itemNickname":"Visit", "navBarTitleText":"Visit", "dataURL":"http://www.cshwhalingmuseum.org/visit.html"},
+{"itemId":"F8EE45D4A82F45D6292EA2D", "itemType":"BT_screen_customURL", "itemNickname":"Calendar", "itemId":"F8EE45D4A82F45D6292EA2D", "itemType":"BT_screen_customURL", "itemNickname":"Calendar", "navBarTitleText":"Calendar", "dataURL":"http://www.cshwhalingmuseum.org/calendar.html"},
+{"itemId":"4D139F9CA13327373BC6D3B", "itemType":"BT_screen_customURL", "itemNickname":"Programs", "itemId":"4D139F9CA13327373BC6D3B", "itemType":"BT_screen_customURL", "itemNickname":"Programs", "navBarTitleText":"Programs", "dataURL":"http://www.cshwhalingmuseum.org/programs.html"},
+{"itemId":"5A558DC5DDB736B69DA6CF4", "itemType":"BT_screen_customHTML", "itemNickname":"AR Explanation", "navBarTitleText":"AR Explanation"},
+{"itemId":"D7C15C2D3F5BF5BBFB2CF84", "itemType":"BT_screen_customURL", "itemNickname":"Exhibits", "itemId":"D7C15C2D3F5BF5BBFB2CF84", "itemType":"BT_screen_customURL", "itemNickname":"Exhibits", "navBarTitleText":"Exhibits", "dataURL":"http://www.cshwhalingmuseum.org/exhibits.html"},
+{"itemId":"38D9BD4968AACD0F0C9E5EB", "itemType":"BT_screen_splash", "itemNickname":"splash", "backgroundColor":"#000000", "startTransitionAfterSeconds":"1", "transitionDurationSeconds":"1", 		"transitionType":"fade", "backgroundImageScale":"center"}
+
+]
+}
+
+]
+
+}}
